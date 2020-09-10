@@ -1,13 +1,13 @@
 # reportsystem
 
-# ENGLISH
+# ENGLISH - INGLÊS
  3 different reporting systems, prevents plugins from seeing deleted messages, etc.
 
 Report system V1 -> DM
 Report system V2 -> PRIVATE CHANNEL
 Report System V3 -> Choose between DM or PRIVATE CHANNEL
 
-# PORTUGUESE BRAZIL
+# PORTUGUESE - PORTUGUÊS
 
 3 sistemas de report diferentes, evita que os plug-ins que vê mensagens excluídas, etc.
 
